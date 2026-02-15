@@ -1,1 +1,1 @@
-![gif](https://upload.wikimedia.org/wikipedia/commons/3/3f/Windows-loading-cargando.gif)
+![gif](https://blog.jitter.video/content/images/size/w1200/2021/12/Jitter-Pink-perfect-loop-cubes.gif)
