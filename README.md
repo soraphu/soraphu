@@ -20,12 +20,18 @@ I am a passionate **Computer Engineering student** and **Full-Stack Developer** 
 
 ### 📂 Featured Projects
 
-#### 🔒 [User-Management System](https://github.com/soraphu/user-management-system)
+#### 🎟️ [DeePoints](https://github.com/soraphu/deepoints) `In Progress...`
+A modern loyalty points management web application integrated with LINE LIFF for customer engagement, backed by a robust admin portal for merchants.
+
+* **Tech Stack:** React, Fastify, PostgreSQL (Supabase), TypeScript, Docker, LINE Messaging API & LIFF
+* **Key Highlight:** Designing dynamic UUID-based QR code generation with atomic transactions to prevent scanning fraud, alongside a multi-role merchant backoffice dashboard.
+
+#### 🔒 [User-Management-System](https://github.com/soraphu/user-management-system)
 A full-stack, containerized user management platform featuring robust JWT authentication and secure architectures.
 - **Tech Stack:** PHP-FPM, React, Docker, MySQL, Nginx, JWT
 - **Key Highlight:** Designed using Gemini-assisted workflows for rapid UI prototyping, integrated with a secure back-end infrastructure.
 
-#### 🎮 Gamified Competitive Coding Platform
+#### 🎮 [Gamified Competitive Coding Platform(CodeBattle)](https://github.com/cpecodebattle/codebattle)
 A real-time live coding battle arena supporting synchronous game states and dynamic matchmaking.
 - **Tech Stack:** React, Node.js/Express, MongoDB, Socket.io
 - **Key Highlight:** Implemented bidirectional WebSocket communication layers minimizing latency for multi-player interaction.
