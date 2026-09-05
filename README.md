@@ -20,7 +20,7 @@ I am a passionate **Computer Engineering student** and **Full-Stack Developer** 
 
 ### 📂 Featured Projects
 
-#### 🎟️ [Modern-Loyalty-Points-Management-System](https://github.com/soraphu/deepoints) `In Progress...`
+#### 🎟️ [Modern-Loyalty-Points-Management-System](https://github.com/soraphu/deepoints)
 A modern loyalty points management web application integrated with LINE LIFF for customer engagement, backed by a robust admin portal for merchants.
 
 * **Tech Stack:** React, Fastify, PostgreSQL (Supabase), TypeScript, Docker, LINE Messaging API & LIFF
