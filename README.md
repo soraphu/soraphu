@@ -25,17 +25,17 @@ I am a **Computer Engineering student** and **Full-Stack Developer** focused on 
 
 ### 📂 Featured Projects
 
-#### ➜ [Modern Loyalty Points Management System](https://github.com/soraphu/modern-loyalty-points-management-system)
+#### 🔵 [Modern Loyalty Points Management System](https://github.com/soraphu/modern-loyalty-points-management-system)
 A LINE LIFF loyalty points platform with dynamic UUID-based QR code anti-fraud generation, atomic transactions, and a multi-role merchant backoffice.
 - **Tech Stack:** `React` `Fastify` `PostgreSQL (Supabase)` `TypeScript` `Docker` `LINE LIFF`
 - **Case Study:** [View on Portfolio ↗](https://soraphu.in.th)
 
-#### ➜ [User Management System](https://github.com/soraphu/user-management-system)
+#### 🟢 [User Management System](https://github.com/soraphu/user-management-system)
 A full-stack, containerized identity and user management platform featuring robust JWT authentication and secure architectures.
 - **Tech Stack:** `PHP-FPM` `React` `Docker` `MySQL` `Nginx` `JWT`
 - **Case Study:** [View on Portfolio ↗](https://soraphu.in.th)
 
-#### ➜ [CodeBattle - Gamified Competitive Coding Platform](https://github.com/cpecodebattle/codebattle)
+#### 🟡 [CodeBattle - Gamified Competitive Coding Platform](https://github.com/cpecodebattle/codebattle)
 A real-time live coding battle arena supporting synchronized game states, dynamic matchmaking, and low-latency WebSocket communication.
 - **Tech Stack:** `React` `Node.js` `Express` `MongoDB` `Socket.io`
 - **Case Study:** [View on Portfolio ↗](https://soraphu.in.th)
